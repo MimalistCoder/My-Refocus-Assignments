@@ -6,7 +6,7 @@
 //If your BMI is 30.0 or higher, it falls within the obese range.
 
 // Assuming the person's weight is 50kg and 1.68m in Height
-let weight =60;
+let weight =100;
 let height = 1.72;
 
 const BMI = weight / (height * height); 
@@ -22,7 +22,7 @@ function BMIConclusion(BMI){
         console.log("WTF, You are obese!!!");
        }
 }
-console.log(`Your BMI is ${BMI} \n`);
+console.log(`Your BMI is ${BMI.toFixed(2)} \n`);
 BMIConclusion(BMI);
 
 
