@@ -1,0 +1,23 @@
+{
+  "name": "my-refocus-assignments",
+  "version": "1.0.0",
+  "main": "bmi_calculatorV2.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MimalistCoder/My-Refocus-Assignments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MimalistCoder/My-Refocus-Assignments/issues"
+  },
+  "homepage": "https://github.com/MimalistCoder/My-Refocus-Assignments#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
