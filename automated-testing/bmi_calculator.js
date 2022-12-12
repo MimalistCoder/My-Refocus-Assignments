@@ -32,4 +32,4 @@ console.log(BMI.toFixed(2));
 
 
 //for automated testing
-module.exports = myFunctions;
+module.exports = BMI;

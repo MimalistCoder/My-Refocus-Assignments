@@ -26,6 +26,3 @@ function BMIConclusion(BMI){
 BMIConclusion(BMI);
 console.log(`Your BMI is ${BMI.toFixed(2)} \n`);
 // manual testing... "CORRECT!"
-
-console.log('\n Manual Testing...');
-console.log(BMI.toFixed(2));
